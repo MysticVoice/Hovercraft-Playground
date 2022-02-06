@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 921095794d208ec489aec64c739a28a8, type: 3}
+  m_Name: Explosive Shot
+  m_EditorClassIdentifier: 
+  cost: {fileID: 11400000, guid: 066e633359d60264983281ce63513506, type: 2}
+  targeting: {fileID: 11400000, guid: 0e4865745e78c0d488fadbeb1479432f, type: 2}
+  effect: {fileID: 11400000, guid: f83f8686eaa53d74a80940e57d8c49d5, type: 2}

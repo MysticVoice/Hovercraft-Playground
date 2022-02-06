@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a288e5791234454ea7dd645f00fd707, type: 3}
+  m_Name: Cube Thing
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
+  prefab: {fileID: 9141196455897324725, guid: b082506a496717a4cbda48a812926edf, type: 3}
+  type: 0
+  stackSize: 100
+  description: A cube for testing
